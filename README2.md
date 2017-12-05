@@ -15,3 +15,6 @@ This example is to show ...
 This is a ...
 
 ##How to contribute
+
+##Copyright
+2014 Git.Training.
