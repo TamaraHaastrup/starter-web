@@ -8,6 +8,10 @@ This example is to show ...
 
 ##Purpose
 
+...
+
 ##Deployment
+
+This is a ...
 
 ##How to contribute
