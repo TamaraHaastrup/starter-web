@@ -16,5 +16,7 @@ This is a ...
 
 ##How to contribute
 
+Please fork this ...
+
 ##Copyright
 2014 Git.Training.
